@@ -18,7 +18,8 @@ for item in items:
     cat = ""
     for f in item[u'category']:
         if isinstance(f, dict):
-            cat = cat + f[u'#text']
+            cat = cat + ", " + f[u'#text']
+    cat = cat[2:]
     creator = item[u'creator']
     link = item[u'link']
 
