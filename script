@@ -1,0 +1,2 @@
+cat plugins.xml | sed -e ':a;N;$!ba;s/\n/ /g' | sed -e 's/>\s*</></g'
+
