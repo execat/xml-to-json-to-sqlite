@@ -1,0 +1,1200 @@
+{
+  "@version": "2.0",
+  "@base": "http://musescore.org/en/plugins?category=All",
+  "channel": {
+    "title": "Plugins",
+    "link": "http://musescore.org/en/plugins?category=All",
+    "description": [],
+    "language": "en",
+    "item": [
+      {
+        "title": "DoubleTime",
+        "link": "http://musescore.org/en/project/doubletime",
+        "description": "<p>Takes a simple (one-stave, one-voice) line of music and doubles the duration of each note/rest. Useful for copying from e.g. 3/8 time and creating a string of notes that can be pasted into a 3/4 section.<\/p><p>This is just a rough-and-ready Plugin with a very limited application. No bug-fixes are planned at least until the new Plugin framework in MS2.0 is implemented but anyone is welcome to develop this further.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/DoubleTime.js__0.zip\">DoubleTime.js_.zip<\/a><\/td><td>951 bytes<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/DoubleTime.js__0.zip",
+          "@length": "951"
+        },
+        "pubDate": "Sun, 03 Mar 2013 00:10:32 +0000",
+        "creator": "underquark",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "20288 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Saxophone Fingering",
+        "link": "http://musescore.org/en/project/saxfingering",
+        "description": "<p>This plugin will put standard saxophone fingering over (or below) depending on pitch of every note.<br />It will show tablature from low Bb to high F# (standard notes).<br />Also one variant from each \"altissimo\" fingering, going from high G to C.<br />Best used for one sax part.<\/p><p>This plugin is based on <a href=\"http://musescore.org/es/user/4\">lasconic<\/a>'s <a href=\"http://musescore.org/es/project/recorderfingering\">Recorder Fingering<\/a><\/p><p>Includes <a href=\"http://www.hindson.com.au/fonts/SaxophoneTablature.zip\">Woodwind Tablature Sax US<\/a> by Matthew Hindson.<\/p><p><b>-------- <a href=\"http://musescore.org/sites/musescore.org/files/saxfingering.zip\" title=\"Download: saxfingering.zip (17.31 KB)\">Download<\/a> --------<\/b><\/p><p><img src=\"/sites/musescore.org/files/saxfingering_0.png\" alt=\"saxfingering.png\" title=\"saxfingering.png\" width=\"500\" height=\"337\" class=\"inline\" /><\/p><h3>Install<\/h3><p>Requirement: MuseScore 1.2+<\/p><p>    To install the plugin follow the <a href=\"http://musescore.org/en/handbook/plugins\">installation intructions<\/a><br />    Install the <code>Woodwind Tablature Sax US.ttf<\/code> font on your system.<\/p><h3>Usage<\/h3><p>The plugin works only on the first staff. Enter your music and when done go to <b>Plugins<\/b> → <b>Saxophone Fingering<\/b>.<\/p><h3>Uninstall<\/h3><p>Delete the <code>SaxFingering<\/code> directory from your plugins directory.<br />Uninstall the <code>Woodwind Tablature Sax US.ttf<\/code> font<\/p><h3>Warning<\/h3><p>Tested on ArchLinux (kernel 3.6.11-1 64bits) and MuseScore 1.2<br />Does not tested on precious versions of MuseScore<br />Does not tested under Windows or MacOSX.<\/p><p>Please <a class=\"freelinking external\" href=\"http://musescore.org/es/user/46634/contact\">contact me<\/a> if you can test this plugin on other plataform.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/saxfingering.zip\">saxfingering.zip<\/a><\/td><td>17.31 KB<\/td> <\/tr> <tr class=\"even\"><td><a href=\"http://musescore.org/sites/musescore.org/files/saxfingering_0.png\">saxfingering.png<\/a><\/td><td>52.66 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/saxfingering.zip",
+          "@length": "17724"
+        },
+        "pubDate": "Sat, 19 Jan 2013 23:14:15 +0000",
+        "creator": "dragonauta",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "19746 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Color/Uncolor Notes",
+        "link": "http://musescore.org/en/project/colornotesextended",
+        "description": "<p>That's the  'Color Notes' plugin from musescore with the following extensions:<\/p><ul><li> recalling the color notes from Plugins/Color/Uncolor Notes now chances all notes back into black<\/li><li>adjustment to some color's to improve contrast on a white screen background<br />or  when you print out the sheets<\/li><li> added more comments to the sourcecode<\/li><\/ul><p>Installation:<br />copy/overwrite 'colornotes.js' in<br />c:\\Program Files\\MuseScore\\plugins\\<\/p><p>Maybe this plugin is overtaken in the new release so I may delete it here.<br />(Stand: Current version of musescore: 1.2)<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/colornotes.zip\">colornotes.zip<\/a><\/td><td>2.18 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/colornotes.zip",
+          "@length": "2229"
+        },
+        "pubDate": "Sat, 05 Jan 2013 06:17:44 +0000",
+        "creator": "Djamana",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "19598 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Chord Chart",
+        "link": "http://musescore.org/en/project/chordchart",
+        "description": "<p>This Plugin is derived from the <a class=\"freelinking external\" href=\"http://musescore.org/en/handbook/plugins#chordchart\">Chord Chart plugin<\/a>.<\/p><p>It adds 2 more chords to the output, which had been added to the chord style XML files for 1.2, but forgotten to get added to this plugin.<\/p><p>To use the plugin, you must first install it according to the <a class=\"freelinking external\" href=\"http://musescore.org/en/handbook/plugins\">instructions in the Handbook<\/a><\/p><p><a href=\"https://github.com/Jojo-Schmitz/chordchart/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/261",
+            "#text": "Chord symbols"
+          }
+        ],
+        "pubDate": "Sat, 15 Dec 2012 17:46:21 +0000",
+        "creator": "Jojo-Schmitz",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "19345 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Native American Flute fingering",
+        "link": "http://musescore.org/en/project/naffingering",
+        "description": "<p><b>This plugin is still in development. Feedback is welcome, check again later for updates.<\/b><br />This plugin will put a NAF tablature below each note in the score. Of course, it's better to use it with a one part NAF score. The plugin requires the  <code>NAFTracks_SixHole.ttf<\/code> font from <a href=\"http://www.flutopedia.com/fonts.htm\">Flutopedia<\/a>.<\/p><p>The plugin currently only support 6 holes NAF but could be extended to other types of flutes if necessary.<\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/naf_fingering/zipball/master\">DOWNLOAD<\/a><\/h1><h3>Demo<\/h3><p><iframe src=\"http://www.screenr.com/embed/JbN7\" width=\"650\" height=\"396\" frameborder=\"0\"><\/iframe><\/p><h3>Install<\/h3><p>Requirement: <b>MuseScore 0.9.6+<\/b><\/p><ol><li>To install the plugin follow the <a href=\"http://musescore.org/en/handbook/plugins\">installation intructions<\/a><\/li><li>Install the <code>NAFTracks_SixHole.ttf<\/code> font on your system.  See <a href=\"http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/windows_fonts_addnew.mspx?mfr=true\">instructions for windows<\/a> or <a href=\"http://support.apple.com/kb/HT2435\">for MacOSX<\/a><\/li><\/ol><h3>Usage<\/h3><p>The plugin works only on the first staff, so use a one staff score or put the flute staff at the top. Enter your music and when done go to <kbd><samp class=\"menu\">Plugins<\/samp> → <samp class=\"menuitem\">NAF fingerings<\/samp><\/kbd>.<\/p><h3>Uninstall<\/h3><p>Delete the <code>naf_fingering<\/code> directory from your plugins directory.<br />Uninstall the <code>NAFTracks_SixHole.ttf<\/code> font.<\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/267",
+            "#text": "Simplified notation"
+          }
+        ],
+        "pubDate": "Sun, 18 Nov 2012 00:05:12 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18936 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Bombarde et Biniou Koz Tablature Sib",
+        "link": "http://musescore.org/en/project/bombardetablaturesib",
+        "description": "<p>à partir du plugin \"Tin Whistle tablature\" crée par Seven,<br />je l'ai modifié pour le couple d'instruments de musique traditionnelle bretonne :<br />la bombarde et le biniou koz en si bémol.<br />le zip contient a la fois le plug-in 'bombardetablature.js' et le 'bombardetab.tff'<\/p><p>J'ai re ecrit une police a partir du travail de  Blayne Chastan qui va du la becarre grave au La bemol à l'octave.<br />La bombarde est utilisee avec un biniou, donc elle ne possede qu'une cle. pour etre utilisee avec une cornemuse elle doit posseder deux cles.<\/p><p>Patrick Sauger<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/bombarde-tablature.zip\">bombarde-tablature.zip<\/a><\/td><td>3.15 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/bombarde-tablature.zip",
+          "@length": "3225"
+        },
+        "pubDate": "Sun, 21 Oct 2012 19:25:37 +0000",
+        "creator": "patrick.sauger",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18595 at http://musescore.org"
+        }
+      },
+      {
+        "title": "VoiceCaster",
+        "link": "http://musescore.org/en/project/voicecaster",
+        "description": "<p>In response to a recent forum question about splitting voices and putting them on separate staves, VoiceCaster does that, albeit in a rough-and-ready way.<\/p><p>Take a score with one stave and more than one voice.<br />For transposing instruments, ensure that Notes &gt; Concert Pitch is checked.<br />Select a segment of the score.<br />Run the Plugin.<\/p><p>A new score is created with 4 staves, each with one of the voices from the original.<\/p><p>I know of some errors/bugs/features already -<br />1 The last note of the selection gets missed out. - FIXED, thanks to Jojo-Schmitz<br />2 It only writes the output score in 4/4 time.<br />3 The first stave of the output score plays in the same instrument as the source score but the second stave is in some generic squeaky instrument.<\/p><p>Workarounds -<br />1 FIXED<br />2 Any time signature with less than four quarters or equivalent to the bar will still generate all the notes and you can copy and paste them. Time signatures such as 5/4, 12/8 will lose notes and you might want to copy the notes first to a \"blank\" bit of 4/4, extract the voices and then do some tidying up.<br />3 Just change the instrument via Stave Properties<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/VoiceCaster.js_.zip\">VoiceCaster.js_.zip<\/a><\/td><td>1.12 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/VoiceCaster.js_.zip",
+          "@length": "1147"
+        },
+        "pubDate": "Sun, 07 Oct 2012 20:29:18 +0000",
+        "creator": "underquark",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18433 at http://musescore.org"
+        }
+      },
+      {
+        "title": "BalancedTree MagicChords",
+        "link": "http://musescore.org/en/project/magicchords",
+        "description": "<p>This prototype already can detect major, minor and sus chords from a single selected staff. Special attention is paid to the way it detects enharmonic names (double-flats, sharps etc). No user interface is provided/needed besides a single menu entry.<br />Note: plugin's prototype was written during today, so it lacks some major features. The main things that are not present: detection based on all staffs/instruments and only 4 chord types currently in use (M, m, sus2, sus4). The need for a plugin like this raised when I had to fill the chord names for i-th time by hand and found no plugin that just does the thing. Extract it in the MuseScore's plugins folder, as usual. See <a href=\"http://musescore.org/node/10129\" title=\"http://musescore.org/node/10129\">http://musescore.org/node/10129<\/a> for details on the plugin installation.<\/p><p>Mail me <a href=\"mailto:anatoly.gorbunov@gmail.com\">anatoly.gorbunov@gmail.com<\/a> if you have any questions/suggestions.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/MagicChords.zip\">MagicChords.zip<\/a><\/td><td>2.54 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/261",
+            "#text": "Chord symbols"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/MagicChords.zip",
+          "@length": "2600"
+        },
+        "pubDate": "Sat, 06 Oct 2012 18:31:18 +0000",
+        "creator": "anatoly.gorbunov",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18422 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Bells Used Chart",
+        "link": "http://musescore.org/en/project/bells-used",
+        "description": "<h3>Bells Used Chart:<\/h3><h4>Flexible Bells Used Information for Composers and Directors<\/h4><p>Bells Used Plugin is for MuseScore 1.2. It generates Bells Used and Bells Not Used information and can present it in a score format, a text file, or a CSV file for use with spreadsheet software.<\/p><p>Full documentation is included within the ZIP file and is <a href=\"http://nbarnard.github.com/Bells-Used/\">available online<\/a>.<\/p><p>Download <a href=\"http://inmff.net/buc\">Bells Used Plugin<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/268",
+            "#text": "Text"
+          }
+        ],
+        "pubDate": "Sat, 29 Sep 2012 05:48:42 +0000",
+        "creator": "nickb",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18342 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Harp Pedal Diagram",
+        "link": "http://musescore.org/en/project/harppedal",
+        "description": "<p>Creates a harp pedal diagram at a selection, or at the beginning of the score if no selection is made. Requires installation of Harpfont.ttf (included).<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/harp_pedal.zip\">harp_pedal.zip<\/a><\/td><td>3.92 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/267",
+            "#text": "Simplified notation"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/268",
+            "#text": "Text"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/harp_pedal.zip",
+          "@length": "4010"
+        },
+        "pubDate": "Thu, 27 Sep 2012 05:24:41 +0000",
+        "creator": "iancboswell",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "18327 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Harmonica Tablature (Harp)",
+        "link": "http://musescore.org/en/project/harmonicatablature",
+        "description": "<p>This is a plugin for MuseScore 1.2 to add harmonica tablature notation below the notes. It currently supports:<\/p><ul><li>Hohner Highlander for both sides (A highlander and D) - <a href=\"http://musescore.org/sites/musescore.org/files/Hohner%20Highlander%20scale.jpg\">Reference<\/a><\/li><li>Diatonic C - <a href=\"http://musescore.org/sites/musescore.org/files/Lee%20Oscar%20C.jpg\">Reference<\/a><\/li><li>Diatonic D - <a href=\"http://musescore.org/sites/musescore.org/files/Lee%20Oskar%20Diatonic%20D.jpg\">Reference<\/a><\/li><li>Diatonic G - <a href=\"http://musescore.org/sites/musescore.org/files/Lee%20Oskar%20%20Diatonic%20G.jpg\">Reference<\/a><\/li><li>Diatonic Bb - <a href=\"http://musescore.org/sites/musescore.org/files/Lee%20Oskar%20Diatonic%20Bb.jpg\">Reference<\/a><\/li><li>Diatonic A - <a href=\"http://harmopoint.com/harmonica-virtuel/\">Reference<\/a><\/li><li>Diatonic F - <a href=\"http://harmopoint.com/harmonica-virtuel/\">Reference<\/a><\/li><li>Chromatic C, 12 holes - <a href=\"http://musescore.org/sites/musescore.org/files/12%20Hole%20Chromatic%20slide%20Harmonica.txt\">Reference<\/a><\/li><\/ul><p>If you want to have your harmonica added to the it, please <a href=\"http://musescore.org/user/4/contact\">contact me<\/a>. Feedback welcome since I'm not a harmonica player.<br />&lt;!--break--><\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/harmonica_tablature/zipball/master\">DOWNLOAD<\/a><\/h1><ul><li><b>+<\/b> = blow<\/li><li><b>-<\/b> = draw<\/li><li><b>'<\/b>  = halfstep bend<\/li><li><b>\"<\/b>  = whole step bend<\/li><li><b>\"'<\/b> = 3 halfsteps bend<\/li><li><b>&lt;<\/b> = slide<\/li><\/ul><p>Bends, over blow, over draw may be supported if it's the only way to play the note. <br />If there are two holes for one note, a choice has been made.<\/p><h3>Installation<\/h3><p>See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a><\/p><h3>History<\/h3><p>This plugin is born after a discussion in this <a href=\"http://musescore.org/en/node/17631\">thread<\/a>.<\/p><p>If you find MuseScore and this plugin useful, please <a href=\"http://musescore.org/en/donate\">donate<\/a>.<\/p><p><a href=\"http://musescore.com/nicolas/scores/58389\" title=\"http://musescore.com/nicolas/scores/58389\">http://musescore.com/nicolas/scores/58389<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/267",
+            "#text": "Simplified notation"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/268",
+            "#text": "Text"
+          }
+        ],
+        "pubDate": "Sat, 04 Aug 2012 07:38:07 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "17649 at http://musescore.org"
+        }
+      },
+      {
+        "title": "HalfTime",
+        "link": "http://musescore.org/en/project/halftime",
+        "description": "<p>Select some notes and rests. Run the plugin and they are re-written at half the duration.<\/p><p>This plugin is written as a starter for others to modify it into something more flexible that can be used to convert, for example, a piece written in 2/4 time into 6/8. It currently only halves the length of the notes and rests (but this is easy to modify) and it currently gives unacceptable results for transposing instruments (again, I'm sure someone can sort this).<\/p><p>Bugfix 2012/10/08<br />Fixed bug where last note got missed out.<br />For use with transposing instruments, simply check Menu item \"Notes &gt; Concert Pitch\".<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/HalfTime.js__0.zip\">HalfTime.js_.zip<\/a><\/td><td>941 bytes<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/HalfTime.js__0.zip",
+          "@length": "941"
+        },
+        "pubDate": "Sun, 22 Jul 2012 11:28:56 +0000",
+        "creator": "underquark",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "17461 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Alto Recorder Tablature",
+        "link": "http://musescore.org/en/project/altorecordertablature",
+        "description": "<p>I adapted Werner Schweer's very famous recorder fingering plugin to Linux with Matthew Hindson's Woodwind Tablature font, use for alto recorders with baroque fingering system.<\/p><p>I hope, this is useful! New ideas, suggestions, improvements, criticism and other feedback are welcome!<\/p><p>Further informations and download: <a href=\"http://dynup.de.vu\" title=\"http://dynup.de.vu\">http://dynup.de.vu<\/a><\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Thu, 05 Jul 2012 17:29:58 +0000",
+        "creator": "dynup",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "17215 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Brass fingering",
+        "link": "http://musescore.org/en/project/fingeringbrass",
+        "description": "<p>Inserts the fingering for standard 3-valve brass instruments in the note range F# (below-the stave) to C (above the stave). Works best if you enter all the notes first and then run the plugin as currently it does not delete the original marks if you run it for a second time. You can, however, right-click on a fingering mark, select all similar and press Delete and then re-run the plugin.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/Fingering_Brass.zip\">Fingering_Brass.zip<\/a><\/td><td>982 bytes<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/264",
+            "#text": "Other"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/Fingering_Brass.zip",
+          "@length": "982"
+        },
+        "pubDate": "Tue, 05 Jun 2012 15:55:03 +0000",
+        "creator": "underquark",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "16830 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Note Names",
+        "link": "http://musescore.org/en/project/notenames",
+        "description": "<p>This Plugin is derived from the <a class=\"freelinking external\" href=\"http://musescore.org/en/handbook/plugins#notenames\">Note Names plugin<\/a>.<br />It adds the note names of the chords (not just the top note) in all voices (not just voice 1) of either the entire current score (not just the top staff) or on the selected measures/staves as staff text (above the staff for voice 1 and 3, below for voice 2 and 4) and uses note names according to the locale MuseScore is configured for (instead of just the English note names C, D, E, F, G, A, B).<br />So the output changes with the setting of Menu -&gt; Edit -&gt; Preferences... -&gt; General -&gt; Language, or, if that is set to 'System', the output depends on the language setting of your PC.<br />As a further extensions it also names notes with sharps, double sharps and double flats and the notename moves aside a bit, if the note would otherwise collide (in treble clef and voice 1 only).<\/p><p>Available locales: English, German, Dutch, Japanese, Italian, French, Spanish, Portuguese, Russian, Romainan, Danish, Norwegian, Swedish, Polish, Slovak, Czech and Greek.<\/p><p>The double sharp and double flat notes as well as Fb, Cb, E# and B# still need translation into French, Spanish, Portuguese, Russian, Romanian and Greek, help is more than welcome.<\/p><p>If you also want it to show courtesy- and microtonal accidentals, change 'false' to 'true' in the plugin code. Note however, that none of these have yet been translated, and their 'clear text' names can be rather long (e.g. \"mirrored-flat-slash\").<\/p><p>To use the plugin, you must first install it according to the <a class=\"freelinking external\" href=\"http://musescore.org/en/handbook/plugins\">instructions in the Handbook<\/a><\/p><p>The idea for this plugin stems from a <a class=\"freelinking external\" href=\"http://musescore.org/en/node/16786\">discussion in the forum<\/a>, the microtonal extension from <a class=\"freelinking external\" href=\"http://musescore.org/en/node/16870\">another discussion in the forum<\/a> <\/p><p><a href=\"https://github.com/Jojo-Schmitz/notenames/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/259",
+            "#text": "Accidentals"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/264",
+            "#text": "Other"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/266",
+            "#text": "Proof reading"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/268",
+            "#text": "Text"
+          }
+        ],
+        "pubDate": "Mon, 04 Jun 2012 14:33:28 +0000",
+        "creator": "Jojo-Schmitz",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "16814 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Check Harmony Rules",
+        "link": "http://musescore.org/en/project/harmonyrules",
+        "description": "<p>Check Harmony Rules - check Soprano, Alto, Tennor, Bass for conformance to good harmony writing rules.<\/p><h3> Installation instructions: <\/h3><ol><li> Download the plugin from here: <a href=\"https://github.com/c3yvonne7/harmonyRules/zipball/master\" title=\"https://github.com/c3yvonne7/harmonyRules/zipball/master\">https://github.com/c3yvonne7/harmonyRules/zipball/master<\/a><\/li><li>Unzip the .zip file and save the .js file in the plugins directory of MuseScore. On Windows it's c:\\Program Files\\MuseScore\\plugins<\/li><li>Restart or start MuseScore<\/li><\/ol><h3> Current feature list: <\/h3><p>Checks are based on pp. 5, 6 &amp; 7 of the textbook, \"First Year Harmony,\" by William Lovelock.  Note: This plugin does NOT check whether the leading note rises to tonic in the progression V-I (p.6, 11.f).  The other checks on these pages, 11.a to 11.e, 11.g, 12.a &amp; 12.b are checked.<\/p><h4> Multi-voice Checks: <\/h4><ol><li><p>Checks for parallel perfect 5ths and octaves, including consecutive 5ths and octaves in contrary motion, and unison to octave and octave to unison. (Note: different intervals that are enharmonically equivalent to a perfect 5th or octave are NOT detected).<\/li><li><p>Checks for exposed 5ths and octaves.  Note: an exposed 5th between II and V is allowed by Lovelock's textbook, but this plugin will still mark it as a problem.  It is up to the composer to recognize such exposed 5ths as being acceptable.<\/li><\/ol><h4> Single-voice Checks: <\/h4><p> The following errors are detected for each voice selected (or all voices if nothing was selected):<\/p><ol><li>All augmented intervals between one note and the next<\/li><li>Diminished 5ths, when they are not followed by a note within the interval<\/li><li>Leaps of a diminished 4th and 7th (if you, unlike me, are not a novice composer, you may know how to use these intervals correctly; use your discretion).<\/li><li>Leaps of a 6th are better avoided, but should be followed by a note within the interval<\/li><li>Octaves, when they are not preceeded and followed by a note within the interval<\/li><li>Leaps of a 7th, 9th or larger, even with one note intervening<\/li><p>Text is written to the score above any such intervals detected to notify the user of their existence, and the notes themselves are changed to red colour.  Using the undo button will easily undo all changes.<\/p><p>Currently, there are no plans to add any further checks.<\/p><h3> Assumptions made about the score: <\/h3><ol><li><p>Each voice should only have one note at a time (i.e. one note per museScore \"chord\"). If a voice contains a chord of two or more notes, it is annotated as an error on the score.<\/p><p>To check your chords properly, each voice should play only one note at a time, as only the  top note of each museScore chord in a single voice is checked.<\/li><li><p>If there is a selection, only the selected notes are checked.  If nothing is selected, the entire score is checked.<\/li><li><p>Any number of voices may be checked at once, but if there are more than four voices, consecutive  octaves may be more likely.<\/li><li><p>For the purposes of MULTI-VOICE analysis, if different voices contain simultaneous notes of different lengths, the longer note(s) are treated as if they were split into shorter notes of the same length as the shortest simultaneous note.  No notes on the score itself are changed (apart from the colour of the notes).<\/li><li><p>For the purposes of analysis for the SINGLE-VOICE checks, no notes are split. Consecutive notes of the same pitch ARE TREATED AS ONE NOTE for the analysis (the score itself is not changed).  I am only a novice composer. If you think consecutive notes of the same pitch should not be treated as one, please raise this as an issue.<\/p><\/li><\/ol><\/ol>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/266",
+            "#text": "Proof reading"
+          }
+        ],
+        "pubDate": "Mon, 04 Jun 2012 03:32:49 +0000",
+        "creator": "c3yvonne7",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "16806 at http://musescore.org"
+        }
+      },
+      {
+        "title": "MIDI Sight Reader",
+        "link": "http://musescore.org/en/project/midisightreader",
+        "description": "<p>Load a score and see the notes turn green as you play them on your MIDI keyboard. Great for learning to sight-read, or for when you are just starting a new piece.<br />The notes turn green when you have exactly the right notes down, so watch out for rests etc.<br />Please note that the MIDI sight reader struggles with \"swung\" music.<\/p><p>*New*<br />V1.5.2 should work with the new QML plugin framework in the recent nightly build.<br />Tested on Windows Vista.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/MIDISightReader_1_01.zip\">MIDISightReader_1_01.zip<\/a><\/td><td>640.97 KB<\/td> <\/tr> <tr class=\"even\"><td><a href=\"http://musescore.org/sites/musescore.org/files/MIDISightReader_1_5_2.zip\">MIDISightReader_1_5_2.zip<\/a><\/td><td>611.18 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/264",
+            "#text": "Other"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/MIDISightReader_1_01.zip",
+          "@length": "656350"
+        },
+        "pubDate": "Sun, 27 May 2012 19:55:49 +0000",
+        "creator": "DonH",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "16672 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Diatonic accordion tablature",
+        "link": "http://musescore.org/en/project/diatonicaccordion25key",
+        "description": "<p>This plugin is a variation of RichHelms Concertina Tablature plugin. I modified it for obtaining a diatonic G/C 25 keys Hohner Galaad accordion tablature plugin.<br />This is the 1st version, it will certainly evolve ... I tested it with MuseScore 1.2.<\/p><p>As I am not able to write a JS plugin by myself, I am looking for somebody able to help me to develop this plugin in order to get the same result for all the staffs of a multi-staff system score (see example).<\/p><p>Pierre<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/diatonic_accordion_25_key.zip\">diatonic_accordion_25_key.zip<\/a><\/td><td>1.64 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/264",
+            "#text": "Other"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/diatonic_accordion_25_key.zip",
+          "@length": "1680"
+        },
+        "pubDate": "Mon, 19 Mar 2012 20:51:43 +0000",
+        "creator": "Papipio",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "15624 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Version Numbers",
+        "link": "http://musescore.org/en/project/versionnumbers",
+        "description": "<ul><li>Have you ever opened another person's score and wondered which version of MuseScore they use?<\/li><li>Have you ever opened your own score and wondered which version of MuseScore it was last saved in?<\/li><\/ul><p><i>Version Numbers<\/i> answers these questions. It tells you which version of MuseScore a score was last saved in.<\/p><p><strong>Screenshot<\/strong><br /><img src=\"/sites/musescore.org/files/capture.png\" alt=\"This score was last saved using MuseScore 1.1.0 (File format version: 114). You are using MuseScore 1.2.0\" title=\"This score was last saved using MuseScore 1.1.0 (File format version: 114). You are using MuseScore 1.2.0\" width=\"325\" height=\"187\" class=\"inline\" /><\/p><h3>Instructions<\/h3><p>Before you can use the <i>Version Numbers<\/i> plugin for the first time, you need to download \"versionnumbers.zip\" (below). Then follow the instructions in the handbook to install the plugin. See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a>. <\/p><p>After you install the plugin, it is ready to use. <\/p><ol><li>Open any score in MuseScore<\/li><li>From the main menu, choose Plugins &gt; Version Numbers<\/li><\/ol><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/versionnumbers_2.zip\">versionnumbers.zip<\/a><\/td><td>1.75 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/264",
+            "#text": "Other"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/versionnumbers_2.zip",
+          "@length": "1795"
+        },
+        "pubDate": "Tue, 06 Mar 2012 04:35:05 +0000",
+        "creator": "David Bolton",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "15340 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Convert a natural minor key to either harmonic or melodic",
+        "link": "http://musescore.org/en/project/minorvariations",
+        "description": "<p>This plugin enables you to convert a natural minor key to either a harmonic or melodic minor key. You can also colour the affected notes to red with or without changing them. Also you can change the harmonic/melodic back to natural and/or the colour of the notes back to black.<\/p><p>First select the measures to be converted (if no selection is made then the whole of the score is assumed).<br />Select the Minor Variations plugin and a window will pop up.<br />The key signature shown will be the one for the score, or if more than one key is in use or a user defined one, this will be set to 'a minor'. This can be changed.<br />You choose one of the following conversions:<br />  Harmonic - natural to harmonic (raise the natural 7th by a half note).<br />  Melodic - natural to melodic (raise the natural 6th and 7th when notes ascending).<br />  Remove Harmonic - harmonic to natural (lower the harmonic 7th).<br />  Remove Melodic - melodic to natural (lower the melodic 6th and 7th when notes ascending).<br />You can choose one of the following actions on all the affected notes:<br />  Mark as red (do not change the pitch of the note).<br />  Mark as black (do not change the pitch of the note).<br />  Mark as red (change the pitch of the note).<br />  Mark as black (change the pitch of the note).<br />So you can see the changes before making them and revert back to the original notes and note colour.<br />Note. Only notes in the first voice are processed.<br />Feedback via the MuseSCore Plugin Forum greately appreciated.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/minorvariations.zip\">minorvariations.zip<\/a><\/td><td>6.78 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/minorvariations.zip",
+          "@length": "6941"
+        },
+        "pubDate": "Sun, 19 Feb 2012 14:30:38 +0000",
+        "creator": "johnhenry",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "15038 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Create Chords",
+        "link": "http://musescore.org/en/project/createchords",
+        "description": "<p>Create Chords takes single notes and adds 2 or 3 more notes to make a triad or seventh chord.<br />This version has an improved user window, minor keys and allows individual chords to be changed.<\/p><p>You first create an instrument/staff with measures containing single notes. Then run Create Chords on selected measures.<br />You can save the single notes from the selection before changing and then later reset some or all measures if you wish to start again.<br />They key can be changed and the also the relative positions of the notes in the resulting chords (root, third etc.).<br />Individual degrees can be modified.<\/p><p>Run Create Chords for the first time without selecting any measures and a help window will appear telling you how to use it.<br />Note. Only notes in the first voice are processed.<\/p><p>Feedback via the MuseSCore Plugin Forum greately appreciated.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/createchords_4.zip\">createchords.zip<\/a><\/td><td>20.92 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/createchords_4.zip",
+          "@length": "21417"
+        },
+        "pubDate": "Sun, 22 Jan 2012 18:09:56 +0000",
+        "creator": "johnhenry",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "14594 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Trumpet Fingering and Notes English",
+        "link": "http://musescore.org/en/project/trumpetbb",
+        "description": "<p>Trumpet Fingering<\/p><p>Download from the link below and install as per <a href=\"http://musescore.org/en/handbook/plugins\">the manual<\/a><\/p><p>Writes the fingering positions for a Bb trumpet under each note and the name of the note. <\/p><p>Could be improved. Sometimes makes Musescore to crash.<\/p><p>Rev2 updates the name of the plugin on the interface<br />Rev3 Corrects spelling<\/p><p><a href=\"https://github.com/Jojo-Schmitz/trumpetfingering/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "pubDate": "Thu, 19 Jan 2012 18:23:38 +0000",
+        "creator": "avcavc",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "14536 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Keyboard View Score",
+        "link": "http://musescore.org/en/project/keyboardview",
+        "description": "<p>This plug-in opens a new window to show a mix of a piano roll and a score, making it easier to visualize keyboard positions in the score, with a mini-keyboard drawn along the score with the pressed keys.<\/p><p>You can download it at:<br /><a href=\"http://www.cozendey.com/keyboardview/kvmuseplugin.zip\" title=\"http://www.cozendey.com/keyboardview/kvmuseplugin.zip\">http://www.cozendey.com/keyboardview/kvmuseplugin.zip<\/a><\/p><p>Instructions to run it:<br />1.Extract the zip file under your MuseScore plugins folder. (Usually \"[program files folder]/MuseScore/plugins\"<br />2.Run MuseScore.<br />3.Click \"Keyboard View Score\" in the Plugins menu.<\/p><p><a href=\"/sites/musescore.org/files/keyboardview_0.png\" class=\"inline-image-link\" title=\"View: keyboardview.png\"><img src=\"http://musescore.org/sites/musescore.org/files/imagecache/image-700/keyboardview_0.png\" alt=\"keyboardview.png\" title=\"keyboardview.png\"  class=\"inline\" width=\"700\" height=\"463\" /><\/a><\/p><p><a href=\"/sites/musescore.org/files/keyboardview2_0.png\" class=\"inline-image-link\" title=\"View: keyboardview2.png\"><img src=\"http://musescore.org/sites/musescore.org/files/imagecache/image-700/keyboardview2_0.png\" alt=\"keyboardview2.png\" title=\"keyboardview2.png\"  class=\"inline\" width=\"700\" height=\"365\" /><\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/267",
+            "#text": "Simplified notation"
+          }
+        ],
+        "pubDate": "Fri, 06 Jan 2012 11:51:41 +0000",
+        "creator": "robson_cozendey",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "14330 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Count Notes (Create performance notes from score commonly used in Handbell scores)",
+        "link": "http://musescore.org/en/project/countnotes",
+        "description": "<p>Creates Performance notes (commonly used in Handbell Arrangements) detailing the notes used (by octave as well as sharps and Flats used.<\/p><p>The following is an example of the output (text) file:<\/p><p><code><br />Notes Used:<\/p><p>D2<br />E2<br />G2<br />A2<br />B2<\/p><p>C3<br />D3<br />E3<br />F#3<br />G3<br />A3<br />B3<\/p><p>C4<br />D4<br />E4<\/p><p>F#4<br />G4<br />A4<br />B4<\/p><p>C5<\/p><p>4 octaves with 20 bells used ranging from D2 to C5 with 0 flats and 2 sharps<\/p><p>&lt;\\code&gt;<\/code><\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/CountNotes_2.zip\">CountNotes.zip<\/a><\/td><td>2.05 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/CountNotes_2.zip",
+          "@length": "2098"
+        },
+        "pubDate": "Sun, 25 Dec 2011 13:13:45 +0000",
+        "creator": "magataganm",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "14199 at http://musescore.org"
+        }
+      },
+      {
+        "title": "German note names and fingering for brass",
+        "link": "http://musescore.org/en/project/tubagriffe",
+        "description": "<p>German note names and fingering for brass<br />Nach Belieben Änderung in internationale Notennamen (\"Db\" statt \"Des\")<br />und<br />Angabe der Griffe für eine B-Tuba mit vier Ventilen, nach Belieben änderbar in Trompetengriffe oder andere Blechblasinstrumente.<br />Auspacken und im Verzeichnis plugins speichern. Nach Neustart von musescore erscheint \"Tubagriffe\" im Untermenu Plugins<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/tubagriffe.zip\">tubagriffe.zip<\/a><\/td><td>1.58 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/tubagriffe.zip",
+          "@length": "1623"
+        },
+        "pubDate": "Sat, 10 Dec 2011 21:24:15 +0000",
+        "creator": "Minitubist",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "14020 at http://musescore.org"
+        }
+      },
+      {
+        "title": "iRealb - A plugin to convert a MusicXML file into a iRealb chart",
+        "link": "http://musescore.org/en/project/irealb",
+        "description": "<p>iRealb - A plugin to convert a MuseScore MusicXML file into a iRealb chart.<\/p><p><b>What:<\/b><br />      This plugin attempts to convert a MuseScore MusicXML file<br />      into a iRealb chart.<\/p><p><b>How:<\/b><br />      1.  Open MuseScore<br />      2.  Create a regular MuseScore chart<br />      3.  Save your MuseScore chart as a MusicXML file.<br />      4.  Go to Plugins -&gt; iRealb<br />      5.  Select the XML file of you chart.<br />      6.  'Select All' -&gt; Copy the URI from the Text Dialog window.<br />          (NOTE: the text dialog window is editable, which is handy for<br />                 quick edits/changes once you get familiar with the<br />                 iRealb syntax.)<br />      7.  Open a Web Browser and navigate to <a href=\"http://www.irealb.com/editor/\" title=\"http://www.irealb.com/editor/\">http://www.irealb.com/editor/<\/a><br />      8.  Paste the URI from above in the textarea titled:<br />          'IMPORT - Paste a song/playlist code here:'<br />      9.  Click 'Import'<br />      10. Compare the Web Editor results with your MuseScore Chart<br />      11. Make the corrections needed via the iRealb Web Editor<br />          (there will probably be many ;)<br />      12. Export your song (Email, etc) from the iRealb Web Editor<br />          to get it on your iRealb app.<\/p><p>      NOTE: It does not convert every (any ;) chart accurately.<br />            It does often get many of the chords and form correct.<br />            usually, at the worst, it can save you time creating<br />            your chart via the Web Editor.<\/p><p><b>Install:<\/b><br />      1. Download the plugin by right clicking the link and save target as.<br />      2. Uncompress the file (Unzip)<br />      3. Place the unzipped dir, 'irealb' into the plugins directory of<br />         MuseScore.<\/p><p>          Windows:<br />                   C:\\Program Files\\MuseScore\\plugins<\/p><p>          Linux (Ubuntu):<br />                   /usr/share/mscore-{VERSION}/plugins<br />                   i.e. /usr/share/mscore-1.1/plugins<\/p><p>          MacOSX: not sure<\/p><p>      4. Restart or start MuseScore<\/p><p><b>Version:<\/b><br />Current Version is 0.1<\/p><p> NOTE: Tested against MuseScore 1.1 only!<br /> This plugin may or may not work on versions != 1.1<\/p><p><b>Misc:<\/b><\/p><p>Bug reports, Fixes, Comments and Suggestions welcome!<\/p><p>Code is on github, feel free to Review/Fork.<br /><a href=\"https://github.com/dvwright/irealb\" title=\"https://github.com/dvwright/irealb\">https://github.com/dvwright/irealb<\/a><\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/irealb.zip\">irealb.zip<\/a><\/td><td>5.98 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/258",
+            "#text": "Batch processing"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/256",
+            "#text": "Export"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/257",
+            "#text": "Convertor"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/254",
+            "#text": "Third-party integration"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/irealb.zip",
+          "@length": "6123"
+        },
+        "pubDate": "Tue, 22 Nov 2011 07:05:09 +0000",
+        "creator": "dwright",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "13781 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Tin Whistle Tab",
+        "link": "http://musescore.org/en/project/tinwhistletab",
+        "description": "<p>Fingering diagrams for tin whistle notes and other 6 hole, simple system flute-like instruments.  It is based on the Recorder Tab plugin but uses the Tin Whistle font created by Blayne Chastain found at: <a href=\"http://blaynechastain.com/blog/tin-whistle-tab-font-sibelius-plugin\" title=\"http://blaynechastain.com/blog/tin-whistle-tab-font-sibelius-plugin\">http://blaynechastain.com/blog/tin-whistle-tab-font-sibelius-plugin<\/a><\/p><p>You can find it on GitHub: <a href=\"https://github.com/sevenreeds/MuseScore--Tin-Whistle-Tab/zipball/master\" title=\"https://github.com/sevenreeds/MuseScore--Tin-Whistle-Tab/zipball/master\">https://github.com/sevenreeds/MuseScore--Tin-Whistle-Tab/zipball/master<\/a><\/p><p>Please note that it does NOT contain a copy of the font.  Please visit Mr. Chastain's web site for that.<\/p><p>Cheers,<br />Seven Reeds<\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          }
+        ],
+        "pubDate": "Sat, 12 Nov 2011 07:28:55 +0000",
+        "creator": "seven",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "13636 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Batch Export",
+        "link": "http://musescore.org/en/project/batchexport",
+        "description": "<p>This plugin will go through a specified folder and in its default settings exports PDF versions of all \".mscz\" files for which no up-to-date version already exists. To use the plugin, you must first install it according to the <a class=\"freelinking external\" href=\"http://musescore.org/en/handbook/plugins\">instructions in the Handbook<\/a>, then:<\/p><ol><li>Select \"Batch Export\" from the Plugins menu<\/li><li>Select the in- and output format(s), or just use the default (*.mscz to *.pdf)<\/li><li>Decide whether or nor you want to also work on subdirectories of the one ye'll select in the next step and check/uncheck the corresponding box<\/li><li>Browse to the folder containing the files you wish to export<\/li><li>Select \"Choose\"<\/li><li>Confirm the dialog box that shows which files have been converted<\/li><\/ol><p>A couple of notes to be aware of:<\/p><ul><li>You may need to have a score already open in order for the Plugins menu to be active. Fixed in MuseScore 2.0+<\/li><li>The scores for which files were exported may be left open in tabs. If so, you'd need to close them manually. Fixed with MuseScore 1.2+<\/li><li>These open tabs will be labeled \"untitled\". Fixed in MuseScore 2.0+ and not an issue anymore with MuseScore 1.2+<\/li><\/ul><p>These issues are fixed with the above mentioned versions, and without re-installing the plugin.<\/p><p>This plugin now comes with translations of the dialogs into German, French (thanks to lasconic) and Spanish (thanks to jorgk), for all other language settings in MuseScore, it remains English. More translations are welcome, just contact us for including them.<\/p><p>The idea for this plugin stems from a <a class=\"freelinking external\" href=\"http://musescore.org/en/node/12452\">question in the forum<\/a>.<\/p><p><a class=\"freelinking external\" href=\"http://github.com/Jojo-Schmitz/batch_export/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/258",
+            "#text": "Batch processing"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/256",
+            "#text": "Export"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/257",
+            "#text": "Convertor"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/253",
+            "#text": "File management"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/255",
+            "#text": "Import"
+          }
+        ],
+        "pubDate": "Wed, 26 Oct 2011 16:53:11 +0000",
+        "creator": "Marc Sabatella",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "13362 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Color the notes of each voice",
+        "link": "http://musescore.org/en/project/colorvoices",
+        "description": "<p>This plug in colors the notes according to the voice. The color scheme is the same as the toolbar:<\/p><p>Voice 1 - Blue,    Voice 2 - Green,   Voice 3 - Yellow,   Voice 4 - Purple<\/p><p>You can change the colors back to black either by just running it again or using <a class=\"freelinking external\" href=\"http://musescore.org/en/user/4\">lasconic's<\/a> <a class=\"freelinking external\" href=\"http://musescore.org/en/project/blacknotes\">Remove Notes Color plugin<\/a>.<\/p><p><a href=\"https://github.com/Jojo-Schmitz/ColorVoices/zipball/master\">Download<\/a><\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Thu, 20 Oct 2011 05:04:35 +0000",
+        "creator": "ozcaveman",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "13207 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Cue Notes",
+        "link": "http://musescore.org/en/project/cue",
+        "description": "<p>Run this plugin on a region to turn all selected notes and rests into \"cue\" notes - small, with playback velocity (volume) set to 0 (actually set to 1 to keep the playback cursor moving though the selection rather than jumping over it).<\/p><p><a class=\"freelinking external\" href=\"http://github.com/Jojo-Schmitz/cue/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/265",
+            "#text": "Playback"
+          }
+        ],
+        "pubDate": "Sun, 16 Oct 2011 19:13:01 +0000",
+        "creator": "Marc Sabatella",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "13149 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Color all Half Step Notes (Sharps & Flats) Red",
+        "link": "http://musescore.org/en/project/colorhalfsteps",
+        "description": "<p>Key signatures and accidentals can be intimidating for beginners. This handy plug-in allows the musician to color all half step notes (sharps and flats) in red. This can easily be undone using the<br />\"<a class=\"freelinking external\" href=\"http://musescore.org/en/project/blacknotes\">Remove notes color<\/a>\" plug-in from Nicolas Froment.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/colorhalfsteps.zip\">colorhalfsteps.zip<\/a><\/td><td>1.27 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/colorhalfsteps.zip",
+          "@length": "1305"
+        },
+        "pubDate": "Mon, 29 Aug 2011 22:04:02 +0000",
+        "creator": "magataganm",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "12333 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Reset Note Velocities (Dynamics) to user selected value",
+        "link": "http://musescore.org/en/project/resetvelocities",
+        "description": "<p>As most have experienced, MuseScore playback lacks the real world differential dynamics when transitioning between dynamic designations (e.g., P-&gt;FF, FFF-&gt;P, etc...) <\/p><p>MuseScore implements a discrete (read chunky &amp; unrealistic) method when transitioning between dynamics that is unpleasing to the ear. <\/p><p>This plug-in allows the user to select a universal dynamic that will be used throughout the score regardless of the specific dynamic(s) selected. <\/p><p>Warning: This action can only be undone by deleting and re-inserting the dynamics (or other user velocities).<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/resetvelocity_0.zip\">resetvelocity.zip<\/a><\/td><td>1.17 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/resetvelocity_0.zip",
+          "@length": "1202"
+        },
+        "pubDate": "Mon, 29 Aug 2011 12:32:27 +0000",
+        "creator": "magataganm",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "12325 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Concertina Tablature",
+        "link": "http://musescore.org/en/project/concertina",
+        "description": "<p>Based on Schweer's Recorder fingering, this plugin adds the Concertina button to press and push vs pull under the note. <\/p><p><b>Concertina keyboards supported: <\/b><\/p><ol><li>20 key Anglo Wheatstone Concertina<\/li><li>30 key Anglo Wheatstone Concertina<\/li><\/ol><p>Buttons are numbered from 1-10 (1-5 on left side, 6-10 on the right)<br />Underlined button means push, no underline pull<br />Second row is 1'-10' and on 30 button third row is 1'' -10''<\/p><p>Happy to add more keyboard mappings. I play a 30 key anglo so that is where I started. <\/p><p>No special fonts to install. Should work on all OSs. Tested on OSX and Windows with MuseScore 1.0 and 1.1.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/concertina_0.zip\">concertina.zip<\/a><\/td><td>73.78 KB<\/td> <\/tr> <tr class=\"even\"><td><a href=\"http://musescore.org/sites/musescore.org/files/concertina1.01.zip\">concertina1.01.zip<\/a><\/td><td>73.82 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/concertina_0.zip",
+          "@length": "75549"
+        },
+        "pubDate": "Sun, 14 Aug 2011 17:43:24 +0000",
+        "creator": "RichHelms",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "12109 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Creative Commons License Generator",
+        "link": "http://musescore.org/en/project/creativecommonsgenerator",
+        "description": "<p>A plugin to generate a Creative Commons license formated for sheet music. After the license is generated copy or cut it, then go to create &gt; text &gt; copyright, in the text box that appears paste the license.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/Creative%20Commons%20Generator_0.zip\">Creative Commons Generator.zip<\/a><\/td><td>3.65 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/Creative Commons Generator_0.zip",
+          "@length": "3741"
+        },
+        "pubDate": "Fri, 05 Aug 2011 11:34:56 +0000",
+        "creator": "KoRnKloWn",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11950 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Crescendo or Diminuendo Note Velocities",
+        "link": "http://musescore.org/en/project/crescendo-diminuendo-playback",
+        "description": "<p>Sets velocity values for crescendos and diminuendos. To use, you must set the velocity value of the first and last notes, either manually by right clicking on the note and going to properties, or the preferred way, but simply using one of the dynamic markings such as Pianissimo, Forte, Mezzoforte, etc. Select the notes from FIRST to LAST, then just click on the plugin and it will automatically set the velocity values. The only velocity values that are important are the first and last, the ones in between will automatically be changed regardless of current value. It can go either way, set the first note louder, and the last note more quiet, or vice versa, and it will automatically increment the velocities up or down accordingly.<\/p><ul><li>V0.1 - First version.<\/li><li>V0.2 - I just made some bug fixes, it should now work flawlessly (hopefully at least).<\/li><li>V0.3 - Added dialog to inform user if their MuseScore version is less than version 1.1.<\/li><li>V0.4 - Simplified code, fixed two bugs and one potential problem with 2.0+.<\/li><li>V0.5 - Now it works on all (up to 4) voices in the selection.<\/li><li>V0.6 - Now it works on all selected staves.<\/li><li>V0.7 - Changes to score can now be undone, move to <a href=\"https://github.com/Jojo-Schmitz/crescendo-diminuendo-playback\">GitHub<\/a>.<\/li><li>V0.8 - add option to color the notes the plugin worked on (see below).<\/li><\/ul><p><a href=\"https://github.com/Jojo-Schmitz/crescendo-diminuendo-playback/zipball/master\">Download<\/a><\/p><p>To enable the coloring of notes the plugin worked on, change the plugin code:<\/p><pre class=\"brush:js\">// Set to true, if you want this plugin to color all notes blue it changed // velocity on. Use the blacknotes plugin to turn them black as neededvar colorit = false; <\/pre><p>Set 'colorit' to 'true' instead.<br />To get rid of the color, use <a class=\"freelinking external\" href=\"http://musescore.org/user/4\">lasconic's<\/a> <a class=\"freelinking external\" href=\"http://musescore.org/project/blacknotes\">Remove Notes Color plugin<\/a>.<br />To revert the velocity settings, use <a class=\"freelinking external\" href=\"http://musescore.org/user/21074\">magataganm's<\/a>  <a class=\"freelinking external\" href=\"http://musescore.org/project/resetvelocities\">Reset Note Velocities plugin<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/265",
+            "#text": "Playback"
+          }
+        ],
+        "pubDate": "Wed, 03 Aug 2011 23:35:23 +0000",
+        "creator": "KoRnKloWn",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11920 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Convert leadsheet to Impro-Visor playalong file",
+        "link": "http://musescore.org/en/project/xml2impro-visor",
+        "description": "<p>With this plugin, you can convert your music-XML-file to a file which can be read and played by Impro-Visor. So you can play your lead sheet with rhythm and harmonies and create your own playalong.<\/p><p>Repeats are not respected.<\/p><p><a class=\"freelinking external\" href=\"http://www.cs.hmc.edu/~keller/jazz/improvisor/\">http://www.cs.hmc.edu/~keller/jazz/improvisor/<\/a><\/p><p>last update: 10.05.2012<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/XML2Impro-Visor_17.zip\">XML2Impro-Visor.zip<\/a><\/td><td>6.15 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/XML2Impro-Visor_17.zip",
+          "@length": "6296"
+        },
+        "pubDate": "Thu, 21 Jul 2011 14:51:36 +0000",
+        "creator": "JazzClub",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11616 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Shape notes - Sacred Harp & Aiken",
+        "link": "http://musescore.org/en/project/shapenotes",
+        "description": "<p>Create a score in shape notes notation in MuseScore, press a button and the score is converted in 4 shape notes notation or 7 shape notes notation or back to common western notation. <b><i>This plugin only works with MuseScore 1.1 and later.<\/i><\/b><\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/shape_notes/zipball/master\">DOWNLOAD<\/a><\/h1><p>\"Shape notes are a music notation designed to facilitate congregational and community singing. The notation, introduced in 1801, became a popular teaching device in American singing schools. Shapes were added to the note heads in written music to help singers find pitches within major and minor scales without the use of more complex information found in key signatures on the staff.\" (source <a class=\"freelinking external\" href=\"http://en.wikipedia.org/wiki/Shape_note\">Wikipedia<\/a>)<\/p><p>There are two systems of shape notes. The plugin supports both systems.<\/p><p><img src=\"http://musescore.org/sites/musescore.org/files/600px-TheShapesOfShapeNoteSinging_4ShapeSystem.gif\" />Four-shape system<\/p><p><img src=\"http://musescore.org/sites/musescore.org/files/500px-CMajorScaleInAikenShapeSystem.gif\" />Seven-shape system or Aiken<\/p><h3>Installation<\/h3><p>See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a><\/p><h3>Screencast<\/h3><p><iframe src=\"http://www.screenr.com/embed/2l9\" width=\"650\" height=\"396\" frameborder=\"0\"><\/iframe><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/267",
+            "#text": "Simplified notation"
+          }
+        ],
+        "pubDate": "Thu, 14 Jul 2011 17:12:31 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11507 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Add Staff",
+        "link": "http://musescore.org/en/project/addstaff",
+        "description": "<p>This plugin simply adds a new nameless staff to your score.  This is useful for lead sheets, in which staves are traditionally not named.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/addstaff.zip\">addstaff.zip<\/a><\/td><td>792 bytes<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/addstaff.zip",
+          "@length": "792"
+        },
+        "pubDate": "Wed, 06 Jul 2011 22:50:37 +0000",
+        "creator": "Marc Sabatella",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11419 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Slash Notation Styles",
+        "link": "http://musescore.org/en/project/slash",
+        "description": "<p>The \"Slash Notation Styles\" plugin simplifies the process of creating the various styles of slash notation used in jazz. Ordinary slash notation is where measures are filled with one-per-beat slashes to indicate that they are open for improvisation or comping. Rhythmic notation is where slashes with stems, flags, and/or beams are used to indicate a specific comping rhythm. Accent notation is similar to rhythmic notation, but the notes are reduced in size and placed above the staff with stems pointing up, thus allowing you to show both the melody and the comping rhythm on the same staff (in different voices).<\/p><p>This plugin requires MuseScore 1.1 or later.<\/p><p>Regardless of which style you wish to use in a given passage, you start by selecting the measures you wish to affect, and then you run the plugin. A dialog box appears to allow you to select which style to use, which voice to apply it to, and other parameters. For rhythmic and accent notation, you should have already entered ordinary notes representing the rhythm to be used; the plugin will move these notes to the appropriate location on the staff and turn them into slashes. For slash notation, any current content in the selected voice is deleted and replaced by one-per-beat slashes. All slashes created by the plugin are set to zero velocity (volume) so that they do not affect playback.<\/p><p>A description of the dialog box:<\/p><p>Clef: Select which clef is active for the selection. You need to specify this so the plugin can place the slashes on the proper line or space.<\/p><p>Style: Slash, Rhythmic, or Accent, as described above.<\/p><p>Duration: For slash notation, specify the duration of the slashes in <a class=\"freelinking external\" href=\"http://musescore.org/en/plugin-development/tick-length-values\">tick values<\/a>. The default of 480 will produce quarter note (crotchets) slashes. In 6/8 time, you will probably prefer either 240 to produce eighth note (quaver) slashes, or 720 to produce dotted quarter note (dotted crotchet) slashes.<\/p><p>Voice: Select which voice should be replaced with slashes.<\/p><p>Pitch: Select, by MIDI value, which line or space is used for the slashes. Normally this is set for you based on your Clef and Style selection, but you can override this if necessary.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/slash_1.zip\">slash.zip<\/a><\/td><td>7.25 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/slash_1.zip",
+          "@length": "7426"
+        },
+        "pubDate": "Wed, 06 Jul 2011 22:41:08 +0000",
+        "creator": "Marc Sabatella",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11416 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Explode / Implode",
+        "link": "http://musescore.org/en/project/plode",
+        "description": "<p>The \"Explode\" plugin takes a series of chords containing a fixed number of notes and splits those chords up into the same number of individual staves, each containing one note at a time.  This can be useful when writing for a section of a band or orchestra.  In passages where all parts share the same rhythm, you can write the whole passage on one staff in one voice, then run the plugin to split this into separate staves.<\/p><p>The \"Implode\" plugin performs the opposite function: it takes staves containing lines with identical rhythms and combines them all into chords on one staff.<\/p><p>To use the \"Explode\" plugin, the staves must be contiguous, and you have to manually copy the whole series of chords onto each staff.  Then you can select the whole passage (all staves) and run the plugin.  You will be left with staves containing just one note at a time each, with the notes assigned to staves from top down.<\/p><p>To use the \"Implode\" plugin, the staves must be contiguous as well.  Select the passage (all staves) and run the plugin.  The contents of the lower selected staves will be collected into chords on the top selected staff.  The lower staves will be left unchanged.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/plode_1.zip\">plode.zip<\/a><\/td><td>2.54 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/plode_1.zip",
+          "@length": "2597"
+        },
+        "pubDate": "Wed, 06 Jul 2011 22:07:10 +0000",
+        "creator": "Marc Sabatella",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11414 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Recorder Tablature",
+        "link": "http://musescore.org/en/project/recordertab",
+        "description": "<p>This is modification of Schweer's Recorder fingering, set to be used with Matthew Hindson Woodwing Tablature. It is only set for SOPRANO RECORDER.<\/p><p>You can download the plugin from here:<br /><a href=\"https://docs.google.com/leaf?id=0B4tNtFUfkpTKMzdhOWVmOTQtYmMyNy00NDA4LThhODktYzk3YWEyYzE3MzA3&amp;hl=en_US\" title=\"https://docs.google.com/leaf?id=0B4tNtFUfkpTKMzdhOWVmOTQtYmMyNy00NDA4LThhODktYzk3YWEyYzE3MzA3&amp;hl=en_US\">https://docs.google.com/leaf?id=0B4tNtFUfkpTKMzdhOWVmOTQtYmMyNy00NDA4LTh...<\/a><\/p><p>Just paste it into your Musescore's plugins folder. <\/p><p>You can download Hindson's Recorder Fingering font ('Woodwind Tablature') directly from his website at <a href=\"http://www.hindson.com.au/wordpress/free/free-fonts-available-for-download/\" title=\"http://www.hindson.com.au/wordpress/free/free-fonts-available-for-download/\">http://www.hindson.com.au/wordpress/free/free-fonts-available-for-download/<\/a><\/p><p>Please let me know if you like it.<\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Tue, 14 Jun 2011 15:48:14 +0000",
+        "creator": "dvescobedo",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "11103 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Retrograde",
+        "link": "http://musescore.org/en/project/retrograde",
+        "description": "<h3>Retrograde a selection<\/h3><p><i><b>This is a very simple utility plugin. It works only in very restrictive case. Please save your work before applying it.<\/b><\/i><\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/retrograde/zipball/master\">DOWNLOAD<\/a><\/h1><ol><li>Select a couple of notes/ chords/rest on <b>one staff and one voice without tuplet or tie<\/b><\/li><li>Select Plugins -> retrograde selection and a new score will be created containing a retrograde of the select music.<\/li><li>Copy paste the resulting notes where you need them<\/li><\/ol><h3>Demo<\/h3><p><iframe src=\"http://www.screenr.com/embed/dnc\" width=\"530\" height=\"323\" frameborder=\"0\"><\/iframe><\/p><h3>Installation<\/h3><p>See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a><\/p><p>Tested with MuseScore 1.0<\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/263",
+            "#text": "Notes & Rests"
+          }
+        ],
+        "pubDate": "Mon, 11 Apr 2011 09:33:03 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "10194 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Snippet creator",
+        "link": "http://musescore.org/en/project/snippetcreator",
+        "description": "<p>While answering on the forum, writing short lessons or creating <a href=\"http://musescore.org/en/howto\">howto<\/a> for musescore.org, I find myself doing screenshot of scores of 2 or 3 measures or saving as PNG and crop the result in image processing software. This plugin aims to make this easier.<\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/snippet_creator/zipball/master\">DOWNLOAD<\/a><\/h1><ol><li>Create a new score and enter a couple of measures of music<\/li><li>Go to Plugins -> Snippet creator, enter a file name, press save and wait.<\/li><li>You have a nice and small picture without white border  to be embedded on a website or in a document<\/li><\/ol><p>Note : The plugin works only on single page score. There is no option to change transparency, size of the resulting PNG etc... The processing is quite long on my computer, if the plugin is used I might add a progress bar.<\/p><h3>Installation<\/h3><p>Compatible with MuseScore 1.0 and later only.<\/p><p>Installation instructions : See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a> in the handbook<\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Thu, 07 Apr 2011 09:59:45 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "10124 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Tune notes for playback with micro tonal intervals",
+        "link": "http://musescore.org/en/project/autotuneselection",
+        "description": "<p>This plugin allows you to edit note pitches from a selection.<\/p><p><strong>How it works ?<\/strong><\/p><p>1- First of all, create a score and enter notes without thinking about the sound.<br />2- Select the zone (measures, on one staff, on more staves, ....) you want the pitch will be changed<br />3- click on Plugins &gt; Auto Tune Selection<br />4- In the dialog window that just opened, enter the value you want for every notes you want to change the pitch<br />5- click ok<br />6- click on play, you should now ear the sound with the value you've enterred.<\/p><p><strong> Example<\/strong><br />I've created a score with micro-tonal notes.<\/p><p>About the displaying :<br />1- I create the score<br />2- I enter the notes (with natural notes, and without thinking about the sound)<br />3- I use the custom key dialog (hit the k key to do that) and create a custom key with a B flat a E flat and a  G half sharp (using the sharp symbol with a down arrow)<br />4- apply the custom key signature to the score (by drag n drop)<\/p><p>About playback and sounds :<br />5- now select the zone into the score (I say a zone which means it can be a staff or futher staves or just some measures)<br />6- click on Plugins &gt; Auto Tune Selection<br />7- Enter the value -100 under the B (to have a Bb) enter the value -100 under the E (to have a Eb) and then, enter the value -50 under the G (to have a half sharp G) then click ok to validate.<br />8- Click on play and enjoy the right pitch !<\/p><p><strong>What this plugin is NOT<\/strong><br />This plugin can't change note displaying. It only affects playback and note sounds !<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/autotune_0.zip\">autotune.zip<\/a><\/td><td>2.94 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/autotune_0.zip",
+          "@length": "3008"
+        },
+        "pubDate": "Sat, 12 Mar 2011 16:36:24 +0000",
+        "creator": "daeavelwyn",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "9734 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Detect simple harmonies (Major, minor, Septime)",
+        "link": "http://musescore.org/en/project/findharmony",
+        "description": "<p>Scans every chord and writes the harmony name next to it if one of the 3 types (Major, minor, Septime) is identified. A number indicates the inversion.<\/p><table id=\"attachments\" class=\"sticky-enabled\"> <thead><tr><th>Attachment<\/th><th>Size<\/th> <\/tr><\/thead><tbody> <tr class=\"odd\"><td><a href=\"http://musescore.org/sites/musescore.org/files/FindHarmony.js_.txt\">FindHarmony.js_.txt<\/a><\/td><td>4.83 KB<\/td> <\/tr><\/tbody><\/table>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          }
+        ],
+        "enclosure": {
+          "@url": "http://musescore.org/sites/musescore.org/files/FindHarmony.js_.txt",
+          "@length": "4948"
+        },
+        "pubDate": "Sat, 13 Nov 2010 23:20:57 +0000",
+        "creator": "merte",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "7941 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Shakuhachi and Shinobue",
+        "link": "http://musescore.org/en/project/shakuhachi",
+        "description": "<p>Fingering plugin for Shakuhachi and Shinobue based on the <a href=\"http://musescore.org/en/project/recorderfingering\">Recorder Fingering<\/a> by lasconic.<\/p><p>Japanese instructions: <a href=\"http://www-b.uec.tmu.ac.jp/shakuhachi/MuseScore_Shakuhachi/\" title=\"http://www-b.uec.tmu.ac.jp/shakuhachi/MuseScore_Shakuhachi/\">http://www-b.uec.tmu.ac.jp/shakuhachi/MuseScore_Shakuhachi/<\/a><\/p><h3>Install<\/h3><p>Requirement: <b>MuseScore 0.9.6<\/b><\/p><ol><li>Extract the <a href=\"https://github.com/Jojo-Schmitz/Shakuhachi_and_Shinobue/zipball/master\">Shakuhachi_and_Shinobue.zip<\/a> in your MuseScore plugin directory.<ul><li>Plugins directory on Windows is located at<br /><code>C:\\Program Files\\MuseScore\\plugins<\/code><br />or<br /><code>C:\\Users\\\\AppData\\Local\\MusE\\MuseScore\\plugins<\/code><\/li><li>On Mac, MuseScore should be installed in <code>/Applications<\/code><br />Open a finder window, go to <code>/Applications<\/code> and right click on MuseScore<br />Click on \"Show Package Contents\" and copy paste <code>shakuhachi*.js<\/code>, <code>shakuhachiKinko*.js<\/code> or <code>shinobue*.js<\/code> in<br /><code>Contents/Resources/plugins<\/code>.<\/li><\/ul><\/li><li>Install the <code>Shakuhachi.ttf<\/code>, <code>ShakuhachiKinko.ttf<\/code> or <code>Shinobue.ttf<\/code> font on your system.<\/li><\/ol><h3>Uninstall<\/h3><p>Delete <code>Shakuhachi<\/code>, <code>SkakuhachiKinko<\/code> or <code>Shinobue<\/code> folder from your plugins directory.<br />Uninstall the <code>Shakuhachi.ttf<\/code>, <code>ShakuhachiKinko.ttf<\/code> or <code>Shinobue.ttf<\/code> font<\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Tue, 17 Aug 2010 17:00:25 +0000",
+        "creator": "tcbnhrs",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "6764 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Recorder fingering",
+        "link": "http://musescore.org/en/project/recorderfingering",
+        "description": "<p><a href=\"/sites/musescore.org/files/screenshot_0.jpg\"><img src=\"/sites/musescore.org/files/screenshot_0.jpg\" width=\"30%\" align=\"right\" /><\/a>This plugin will put a recorder tablature below each note in the score. Of course, it's better to use it with a one part recorder score. The plugin uses a <a href=\"http://www.zadjik.com/flutes/download.htm#FONT\">recorder font<\/a> or a font for German  fingering soprano recorder. Both are included in the plugin package.<\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/recorder_fingering/zipball/master\">DOWNLOAD<\/a><\/h1><h3>Demo<\/h3><object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0' width='560' height='345'><param name='movie' value='http://screenr.com/Content/assets/screenr_1116090935.swf' /><param name='flashvars' value='i=59590' /><param name='allowFullScreen' value='true' /><embed src='http://screenr.com/Content/assets/screenr_1116090935.swf' flashvars='i=59590' allowFullScreen='true' width='560' height='345' pluginspage='http://www.macromedia.com/go/getflashplayer'><\/embed><\/object><h3>Install<\/h3><p>Requirement: <b>MuseScore 0.9.6+<\/b><\/p><ol><li>To install the plugin follow the <a href=\"http://musescore.org/en/handbook/plugins\">installation intructions<\/a><\/li><li>Install the <code>recorder.ttf<\/code> font on your system.  See <a href=\"http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/windows_fonts_addnew.mspx?mfr=true\">instructions for windows<\/a> or <a href=\"http://support.apple.com/kb/HT2435\">for MacOSX<\/a><\/li><\/ol><h3>Usage<\/h3><p>The plugin works only on the first staff, so use a one staff score or put the flute staff at the top. Enter your music and when done go to <kbd><samp class=\"menu\">Plugins<\/samp> → <samp class=\"menuitem\">Recorder Sopranino Alto<\/samp><\/kbd> or <kbd><samp class=\"menu\">Plugins<\/samp> → <samp class=\"menuitem\">Recorder Soprano Tenor<\/samp><\/kbd> depending of your flute.<\/p><h3>Uninstall<\/h3><p>Delete the <code>recorder_fingering<\/code> directory from your plugins directory.<br />Uninstall the <code>recorder.ttf<\/code> font<\/p><h3>Warning<\/h3><p>Does not work on Linux (tested on Ubuntu 10.4). The font seems non compatible. If you have any clue <a href=\"/user/4/contact\">please contact<\/a> me<\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Tue, 01 Jun 2010 10:19:01 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "5936 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Score Statistics",
+        "link": "http://musescore.org/en/project/scorestats",
+        "description": "<p>This plugin lists some statistics about the current score; data can also be saved in a .CSV file.<\/p><h3>Requirements<\/h3><p><b>Score Statistics<\/b> has been tested with MuseScore 0.9.6 beta2.<br />It should work with later versions.<br />It may work with version 0.9.6 beta 1.<br />It <b>does not<\/b> work with version 0.9.5.<\/p><h3>Installation<\/h3><ul><li>Extract the files in the \"plugins\" sub-folder of the main folder where your copy of MuseScore is installed in. This creates a \"scorestats\" sub-folder of the \"plugins\" folder.<\/li><li>Start or re-start MuseScore.<\/li><li><b>Read the documentation!<\/b> (file <code>plugins/scorestats/scorestats.md<\/code>)<\/li><\/ul><p>Once run, <b>Statistics<\/b> creates a configuration file, <code>pluginScorestats.ini<\/code>, in the<br />following folder:<\/p><table><tr><td>Windows:<\/td><td><code>%APP_DATA%\\MusE<\/code><\/td><\/tr><tr><td>Linux &amp; Mac OS X:<\/td><td><code>$HOME/.config/MusE/<\/code><\/td><td><\/td><\/tr><\/table><h3>Current version<\/h3><p>Current version is 0.4 and is available from the link at the bottom of this page.<\/p><h3>Known limitations<\/h3><ul><li>Tied notes are not taken into account yet: each note is considered an independent note and accounted as such.<\/li><\/ul><p><a href=\"https://github.com/Jojo-Schmitz/scorestats/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/260",
+            "#text": "Analysis"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/262",
+            "#text": "Composing tools"
+          }
+        ],
+        "pubDate": "Sat, 10 Apr 2010 11:29:49 +0000",
+        "creator": "Miwarre",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "5293 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Micro-interval tuning",
+        "link": "http://musescore.org/en/project/microtune",
+        "description": "<p>This plugin allows to tune notes affected by micro-interval accidentals. It also allows to manage ready-made sets of tuning values (presets).<\/p><h3>Requirements<\/h3><p><b>Microtune<\/b> has been tested with MuseScore 0.9.6 beta2. It should work with later versions.<br />It may work with version 0.9.6 beta 1; it <b>does not<\/b> work with version 0.9.5.<\/p><h3>Installation<\/h3><ul><li>Extract the files in the \"plugins\" sub-folder of the main folder where your copy of MuseScore is installed in. This creates a \"microtune\" sub-folder of the \"plugins\" folder.<\/li><li>Start or re-start MuseScore.<\/li><li><b>Read the documentation!<\/b> (file <code>plugins/microtune/readme.md<\/code>)<\/li><\/ul><p>Once run, <b>Microtune<\/b> creates a configuration file, <code>pluginMicrotune.ini<\/code>, in the<br />following folder:<\/p><table><tr><td>Windows:<\/td><td><code>%APP_DATA%\\MusE<\/code><\/td><\/tr><tr><td>Linux &amp; Mac OS X:<\/td><td><code>$HOME/.config/MusE/<\/code><\/td><td><\/td><\/tr><\/table><h3>Current version<\/h3><p>Current version is 0.8 and is available from the link at the bottom of this page.<\/p><h3>Known limitations<\/h3><p>None<\/p><p><a href=\"https://github.com/Jojo-Schmitz/microtune/zipball/master\">Download<\/a><\/p>",
+        "category": [
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/259",
+            "#text": "Accidentals"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/236",
+            "#text": "Plugins"
+          },
+          {
+            "@domain": "http://musescore.org/en/taxonomy/term/265",
+            "#text": "Playback"
+          }
+        ],
+        "pubDate": "Fri, 19 Mar 2010 18:40:35 +0000",
+        "creator": "Miwarre",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "5011 at http://musescore.org"
+        }
+      },
+      {
+        "title": "Remove notes color",
+        "link": "http://musescore.org/en/project/blacknotes",
+        "description": "<p>The distributed plugin \"Color Notes\" has no roll back so here is a plugin to  paint all notes in black.<\/p><h1 align=\"center\"><a href=\"https://github.com/lasconic/blacknotes/zipball/master\">DOWNLOAD<\/a><\/h1><h3>Installation<\/h3><p>See <a href=\"/fr/manuel/plugins\" title=\"Plugins\">Plugins<\/a><\/p>",
+        "category": {
+          "@domain": "http://musescore.org/en/taxonomy/term/236",
+          "#text": "Plugins"
+        },
+        "pubDate": "Sun, 28 Feb 2010 18:32:09 +0000",
+        "creator": "lasconic",
+        "guid": {
+          "@isPermaLink": "false",
+          "#text": "4773 at http://musescore.org"
+        }
+      }
+    ]
+  }
+}
